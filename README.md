@@ -9,7 +9,7 @@ Description:
 Checks whether a file has been modified by generating and comparing SHA-256 hash values.
 
 How to run:
-python file_integrity_checker.py
+python file_integrity_checker.py.py
 
 Libraries used:
 hashlib, os
@@ -20,7 +20,7 @@ Description:
 Scans web applications for common vulnerabilities such as SQL Injection and XSS.
 
 How to run:
-python web_vulnerability_scanner.py
+python web_vulnerability_scanner.py.py
 
 Libraries used:
 requests, beautifulsoup4
@@ -34,7 +34,7 @@ Description:
 A basic modular penetration testing toolkit including a port scanner and testing modules.
 
 How to run:
-python task3_penetration_testing_toolkit.py
+python pentest_toolkit.py.py
 
 Libraries used:
 socket, threading
@@ -45,7 +45,7 @@ Description:
 Encrypts and decrypts files securely using AES-256 encryption with password-based key derivation.
 
 How to run:
-python aes_file_encryption.py
+python aes_file_encryption.py.py
 
 Libraries used:
 cryptography, os, getpass
